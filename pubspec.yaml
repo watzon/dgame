@@ -1,0 +1,15 @@
+name: dgame
+description: A 2D (and hopefully someday 3D) game engine for Dart
+version: 0.1.0-alpha
+author: Chris Watson <chris@watzon.me>
+homepage: https://github.com/watzon/dgame
+
+flutter:
+  uses-material-design: false
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+environment:
+  sdk: ">=1.24.2 <2.0.0"

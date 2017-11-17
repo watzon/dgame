@@ -1,0 +1,5 @@
+library dgame;
+
+class DGame {
+  
+}
