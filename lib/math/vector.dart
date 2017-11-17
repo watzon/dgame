@@ -3,6 +3,7 @@ library dgame.algebra;
 import 'dart:core';
 import 'dart:math' as math;
 
+/// Represents a 2D vector on a plane.
 class Vector {
 
   static Vector Zero  = new Vector(0, 0);
